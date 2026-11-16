@@ -1,0 +1,5 @@
+charset-normalizer==3.5.2
+fonttools==4.68.0
+pillow==13.0.0
+reportlab==5.1.0
+uharfbuzz==0.57.0
